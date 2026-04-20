@@ -85,7 +85,7 @@ The dataset includes the following key fields:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](https://github.com/faisalreyaz/THE-PERFORMANCE-MATRIX-ANALYZING-FACTORS-OF-STUDENT-SUCCESS/blob/main/student_performance_dashboard.png)
+![Dashboard Preview](https://github.com/rishabhkumarprabhakar-art/THE-PERFORMANCE-MATRIX-ANALYZING-FACTORS-OF-STUDENT-SUCCESS/blob/main/Student%20Performance%20Dashboard.png)
 
 ## 🏷️ Tags
 `#PowerBI` `#Education-analytics` `#Student-performance` `#DataAnalytics` `#Academic-performance` `#DataVisualization` `#BusinessIntelligence` `#Performance-analysis` `#Interactive-dashboard`
